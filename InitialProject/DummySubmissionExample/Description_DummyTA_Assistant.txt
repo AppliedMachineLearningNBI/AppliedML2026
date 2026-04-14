@@ -1,0 +1,4 @@
+Dummy format-check submission for AppliedML2026 InitialProject.
+Classification: TreeBaseline (placeholder scores).
+Regression: NNBaseline (placeholder energies).
+Clustering: KMeansBaseline with 6 cluster labels (0-5).
