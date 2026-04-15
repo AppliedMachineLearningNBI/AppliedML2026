@@ -19,7 +19,7 @@ This can be done in many ways, and in the following we only introduce two: **Ana
 
 Given the wide range of operating systems available out there, we cannot guarantee that the instructions above will work on _all_ platforms. As of now, __the instructions below have been tested on the following systems:__
 
-* [__Instructions for MacOS__](./docs/install_instruction_linux.md)
+* [__Instructions for MacOS__](./docs/install_instruction_macos.md)
 
 * [__Instructions for Linux__](./docs/install_instruction_linux.md)
 
